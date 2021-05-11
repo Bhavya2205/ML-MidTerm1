@@ -1,5 +1,4 @@
 import streamlit as st
-from PIL import image
 import pickle
 import numpy as np
 import matplotlob.pyplot as plt
