@@ -1,7 +1,7 @@
 import streamlit as st
 import pickle
 import numpy as np
-import matplotlob.pyplot as plt
+import matplotlib.pyplot as plt
 import pandas as pd
 st.set_option('deprecation.showfileUploaderEncoding',False)
 #load pickle model
